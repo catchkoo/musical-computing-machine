@@ -1,2 +1,2 @@
-# musical-computing-machine
+# CodeBarry tutorial
 first
